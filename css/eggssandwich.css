@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+ 
+    padding: 2rem;
+    background-color: rgba(181, 100, 100, 0.659);
+    border: brown;
+}
+
+ol, ul {
+    font-size: larger;
+    font-weight: 800;
+}
